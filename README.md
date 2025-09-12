@@ -5,7 +5,7 @@ It renders a background face image and overlays **floating eyes** that can **tog
 
 ---
 
-## ✨ Features (what it actually does)
+## Features 
 
 - **Fast background blitter (RLE → RGB565)**  
   `img_rle.h` stores the face in **RGB332 run-length encoding**.  
@@ -32,7 +32,7 @@ It renders a background face image and overlays **floating eyes** that can **tog
 
 ---
 
-## 🔌 CYD TFT Pin Configuration (`LGFX.hpp`)
+## CYD TFT Pin Configuration (`LGFX.hpp`)
 
 ```text
 WR  → GPIO 4
